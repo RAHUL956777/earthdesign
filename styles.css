@@ -11,10 +11,9 @@
     align-items: center;
     justify-content: center;
 }
-.image, .details{
+.details{
     display: flex;
     flex-direction: column;
-    width: 50%;
     row-gap: 30px;
 }
 .image img{
